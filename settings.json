@@ -1,0 +1,54 @@
+{
+  "debug.console.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "notebook.output.fontSize": 14,
+  "editor.minimap.enabled": false,
+  "editor.largeFileOptimizations": false,
+  "editor.fontFamily": "'Fira Code', 'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+  "breadcrumbs.enabled": false,
+  "editor.formatOnPaste": true,
+  "workbench.editor.splitInGroupLayout": "vertical",
+  "editor.fontLigatures": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "defoldKit.general.editorPath": "/Applications/Defold.app",
+  "debug.console.fontFamily": "'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+  "notebook.output.fontFamily": "'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "normal",
+  "workbench.activityBar.location": "top",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "eslint.useFlatConfig": true,
+  "workbench.colorTheme": "Monokai Pro",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.autoIndent": "advanced",
+  "apc.font.family": "Inter",
+  "apc.monospace.font.family": "Fira Code",
+  "editor.fontSize": 16,
+  "apc.listRow": {
+    "parts" : {
+      "explorer-folders-view": {
+        "fontSize": 15,
+      },
+      "quick-input-list": {
+        "fontSize": 15,
+      },
+      "open-editors": {
+        "fontSize": 15,
+      }
+    }
+  },
+  "editor.cursorBlinking": "expand",
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+  "window.titleBarStyle": "native",
+  "window.customTitleBarVisibility": "never",
+  "workbench.sideBar.location": "right",
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairsHorizontal": false,
+  "breadcrumbs.filePath": "off",
+  "editor.cursorSmoothCaretAnimation": "on",
+}
+
